@@ -1,2 +1,0 @@
-# classwork
-js plugin aos
